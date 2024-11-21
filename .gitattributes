@@ -1,0 +1,1 @@
+*_SC00.fits filter=lfs diff=lfs merge=lfs -text
